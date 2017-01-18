@@ -1,0 +1,30 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #0f8bac;
+}
+
+.page{
+	width:1280px;
+	height:1060px;
+	position: relative;
+}
+
+.center_panel{
+	width:1000px;
+	height: 990px;
+	left:149px;
+	top: 0px;
+	background-color: #fff;
+	position: absolute;
+	z-index: 1;
+}
+
+.line_grad{
+	background-color: #6be0ed;
+	height: 147px;
+	top: 28px;
+	margin: 0 auto;
+	border-top:1px solid #5ef0ff;
+	position: relative;
+}
