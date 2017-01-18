@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"list",
+				"list-style"
+			],
+			[
 				"backgr",
 				"background-image"
 			]
@@ -12,10 +16,13 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<title>Document</title>\n\t<link rel=\"stylesheet\" href=\"./css/style.css\">\n</head>\n<body>\n<div class=\"page\">\n\t<div class=\"center_panel\">\n\t\t<div class=\"logo\">\n\t\t\t<img src=\"./img/logo.png\" alt=\"\">\n\t\t\t<div class=\"logo_title\">Путешествия по Азии</div>\n\t\t</div>\n\t\t<div class=\"contacts\">\n\t\t\t<div class=\"line1\">Наши контакты:</div>\n\t\t\t<div class=\"line2\">+9-098-765-4321</div>\n\t\t\t<div class=\"line3\">+9-0123-456-890</div>\n\t\t\t<div class=\"line4\">info@asia-holydays.com</div>\n\t\t</div>\n\t\t<div class=\"flags clearfix\">\n\t\t\t<div class=\"flag\">\n\t\t\t\t<img src=\"./img/i_flag.png\" alt=\"\">\n\t\t\t\t<div class=\"flag_title\">Индия</div>\n\t\t\t</div>\n\t\t\t<div class=\"flag\">\n\t\t\t\t<img src=\"./img/n_flag.png\" alt=\"\">\n\t\t\t\t<div class=\"flag_title\">Непал</div>\n\t\t\t</div>\n\t\t\t<div class=\"flag\">\n\t\t\t\t<img src=\"./img/t_flag.png\" alt=\"\">\n\t\t\t\t<div class=\"flag_title\">Тибет</div>\n\t\t\t</div>\n\t\t\t<div class=\"flag\">\n\t\t\t\t<img src=\"./img/b_flag.png\" alt=\"\">\n\t\t\t\t<div class=\"flag_title\">Бутан</div>\n\t\t\t</div>\n\t\t\t<div class=\"flag\">\n\t\t\t\t<img src=\"./img/s_flag.png\" alt=\"\">\n\t\t\t\t<div class=\"flag_title\">Шри-Ланка</div>\n\t\t\t</div>\n\t\t\t<div class=\"flag\">\n\t\t\t\t<img src=\"./img/m_flag.png\" alt=\"\">\n\t\t\t\t<div class=\"flag_title\">Мальдивы</div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"centralphoto\"><img src=\"./img/photo.jpg\" alt=\"\"></div>\n\t\t<div class=\"top_menu\">\n\t\t\t<ul class=\"menu\">\n\t\t\t\t<li class=\"menuItem\">Главная</li>\n\t\t\t\t<li class=\"menuItem\">Путешествие \n\t\t\t\t\t<div class=\"sub2\">\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>Путешествие 1</li>\n\t\t\t\t\t\t\t<li>Путешествие 2</li>\n\t\t\t\t\t\t\t<li>Путешествие 3</li>\n\t\t\t\t\t\t\t<li>Путешествие 4</li>\n\t\t\t\t\t\t\t<li>Путешествие 5</li>\n\t\t\t\t\t\t</ul>\t\t\n\t\t\t\t\t</div></li>\n\t\t\t\t<li class=\"menuItem\">Услуги</li>\n\t\t\t\t<li class=\"menuItem\">Партнёрам</li>\n\t\t\t\t<li class=\"menuItem\">Отзывы клиентов</li>\n\t\t\t\t<li class=\"menuItem\">О нас</li>\n\t\t\t\t<li class=\"menuItem\">Контакты</li>\n\t\t\t</ul>\n\t\t</div>\n\n\t\t<!-- 3 columns -->\n\n\t</div>\n\t<div class=\"line_grad\"></div>\n\n</div>\n</body>\n</html>",
 			"file": "index.html",
+			"file_size": 2190,
+			"file_write_time": 131291974479068171,
 			"settings":
 			{
-				"buffer_size": 169,
+				"buffer_size": 1962,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -24,7 +31,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1179,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -125,15 +132,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 169,
+						"buffer_size": 1962,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								91,
-								91
+								1894,
+								1894
 							]
 						],
 						"settings":
@@ -141,7 +148,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 908.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -153,15 +160,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1179,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1126,
+								1126
 							]
 						],
 						"settings":
@@ -169,7 +176,7 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1322.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
